@@ -1,0 +1,394 @@
+[
+  {
+    "path": "apps/admin/public/media/generated/offline-map-ai-v1-1536.avif",
+    "sha256": "c3c1963afb71973934fe3acd89c7bf6a490830ba6a3bd56db3ef87c514b0683c",
+    "bytes": 176261,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/admin/public/media/generated/offline-map-ai-v1-1536.webp",
+    "sha256": "cd807d22552ec268addc58966df2c0ddbc2b1f2ecb51a24a0d0cdc2f68662611",
+    "bytes": 277852,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/admin/public/media/generated/offline-map-ai-v1-768.avif",
+    "sha256": "8879634d0a46235bf48b5b9e5276dff088359b6526523df2076f3b49e64e1dfc",
+    "bytes": 50230,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/admin/public/media/generated/offline-map-ai-v1-768.webp",
+    "sha256": "470aa74021e11d2661d914a0e65dfe3fe6fbb96cfbb4caffdae6690f272b22b9",
+    "bytes": 80380,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/admin/public/media/generated/offline-map-ai-v1.png",
+    "sha256": "86a9004d36a5f5622ac9be8bb11c7f0d4ae06cb658bb94c33723f1c5bf1e0f65",
+    "bytes": 3232775,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/admin/public/media/generated/spot-tea-mountains-ai-v1-1536.avif",
+    "sha256": "190d70be1661bba307caa353d12ae9962156afd2d24b55cee53f275e306b3c5c",
+    "bytes": 123484,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/admin/public/media/generated/spot-tea-mountains-ai-v1-1536.webp",
+    "sha256": "9b1ae67418ff51ebb5bd0d8b22094d6007c486e522c75b7509c8ab14650e5791",
+    "bytes": 183108,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/admin/public/media/generated/spot-tea-mountains-ai-v1-768.avif",
+    "sha256": "68dab5eb916e4e002ec8bc0e82a126102fb2c4003452faf11398e2984fbaeaec",
+    "bytes": 40449,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/admin/public/media/generated/spot-tea-mountains-ai-v1-768.webp",
+    "sha256": "a9769a5ceac0060704e1258d62053614f0b5162553c03e74ab4d73ff9f38ab18",
+    "bytes": 62406,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/admin/public/media/generated/spot-tea-mountains-ai-v1.png",
+    "sha256": "617a4d2873c1b892fb24fce9ecc92850f0e9af41361db1eb14ed9b1b5413ab22",
+    "bytes": 2557876,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/admin/public/media/generated/spot-temple-tower-ai-v1-1536.avif",
+    "sha256": "4b1bb43ac45a2b2d4c0f9443a7e3ab9a10370fa9ba70da5ac6ee9a0703676d4d",
+    "bytes": 220138,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/admin/public/media/generated/spot-temple-tower-ai-v1-1536.webp",
+    "sha256": "8dd719f274500eafe204a040552af73def058506dd5263c8badaa9fe1ae1838f",
+    "bytes": 371390,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/admin/public/media/generated/spot-temple-tower-ai-v1-768.avif",
+    "sha256": "2e481fe3e9af9aeb9f3abc16f1e4b8774cd43b3f73be7073bb5928fd2a39887c",
+    "bytes": 63722,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/admin/public/media/generated/spot-temple-tower-ai-v1-768.webp",
+    "sha256": "3c0580b0230ec95c42559587f1699a15e771c81c16b647c484e4fd8aeeb96c70",
+    "bytes": 108588,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/admin/public/media/generated/spot-temple-tower-ai-v1.png",
+    "sha256": "70fcc80d358bfae1ed3d4927a5cf5e5d09b5dd0252d0a1ddf151a1e106494a7b",
+    "bytes": 3377618,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/achievement-fieldwork-ai-v1-1536.avif",
+    "sha256": "b01c14dba6074125ee577593d037babf3436ea2fa09536514e017c9554e7c6c8",
+    "bytes": 117981,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/achievement-fieldwork-ai-v1-1536.webp",
+    "sha256": "ac314e32440397df6c62da9d5e9bf9714a9968e65471e9eccd85e4ec29a51599",
+    "bytes": 181644,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/achievement-fieldwork-ai-v1-768.avif",
+    "sha256": "bdd4ba225a88f9e59c9525a68714318eb34af20c573c20c9d46c5bb442c416b9",
+    "bytes": 40903,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/achievement-fieldwork-ai-v1-768.webp",
+    "sha256": "4ced6714657a42498330952876bb6ecbb595fd884073ecc698aab6336bbced90",
+    "bytes": 67376,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/achievement-fieldwork-ai-v1.png",
+    "sha256": "39c69215679489e40e067eb52856b517166958a209eb8b99988f76d452a7dff4",
+    "bytes": 2595271,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/hero-shanshui-ai-v1-1536.avif",
+    "sha256": "3cead1ae7707fb5e3a3dd0b72999bfdaebc362e6be06e0db9cd919d7ab27b002",
+    "bytes": 89530,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/hero-shanshui-ai-v1-1536.webp",
+    "sha256": "c671166a1d7c051ae95be04529d52d7f809816f1fe67468710046366ef0fea2e",
+    "bytes": 119598,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/hero-shanshui-ai-v1-768.avif",
+    "sha256": "d7e14c8ec4b4eef924f9bdf30f84d0068001e3136542a3252cf9731909f1fb5e",
+    "bytes": 28675,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/hero-shanshui-ai-v1-768.webp",
+    "sha256": "8d00e4e262a62d4bd0cacc6c9d5b8bafe8881ec1ff0a8092b687b40d620295cf",
+    "bytes": 40616,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/hero-shanshui-ai-v1.png",
+    "sha256": "1e264cc510ae0eed0eae637eecf52c7c9a454d07c0501a1dbf4932d801c1ca70",
+    "bytes": 2234348,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/offline-map-ai-v1-1536.avif",
+    "sha256": "c3c1963afb71973934fe3acd89c7bf6a490830ba6a3bd56db3ef87c514b0683c",
+    "bytes": 176261,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/offline-map-ai-v1-1536.webp",
+    "sha256": "cd807d22552ec268addc58966df2c0ddbc2b1f2ecb51a24a0d0cdc2f68662611",
+    "bytes": 277852,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/offline-map-ai-v1-768.avif",
+    "sha256": "8879634d0a46235bf48b5b9e5276dff088359b6526523df2076f3b49e64e1dfc",
+    "bytes": 50230,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/offline-map-ai-v1-768.webp",
+    "sha256": "470aa74021e11d2661d914a0e65dfe3fe6fbb96cfbb4caffdae6690f272b22b9",
+    "bytes": 80380,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/offline-map-ai-v1.png",
+    "sha256": "86a9004d36a5f5622ac9be8bb11c7f0d4ae06cb658bb94c33723f1c5bf1e0f65",
+    "bytes": 3232775,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-lychee-orchard-ai-v1-1536.avif",
+    "sha256": "e040f036ed9c78a1fced9c3ef3996aaa99fceb73365c2f2303eebc274d754c4a",
+    "bytes": 108010,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-lychee-orchard-ai-v1-1536.webp",
+    "sha256": "4284fb715bed2b6a1eec5a01489e0058adf019a8ac10ae1b1e37d1444664e2fe",
+    "bytes": 167260,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-lychee-orchard-ai-v1-768.avif",
+    "sha256": "5e48fdb72058e9c1621f42ac72685f96d0ff505f967e4f68e650d727372380a4",
+    "bytes": 42286,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-lychee-orchard-ai-v1-768.webp",
+    "sha256": "24fde9f1227127e6032ca713170bfcb17efecf91d44483043900f908f8a01803",
+    "bytes": 70272,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-lychee-orchard-ai-v1.png",
+    "sha256": "03dd4aaa9402e29b7847f250923e4be3b75cf00d884cf0786336185b8452ad7c",
+    "bytes": 2469210,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-tea-mountains-ai-v1-1536.avif",
+    "sha256": "190d70be1661bba307caa353d12ae9962156afd2d24b55cee53f275e306b3c5c",
+    "bytes": 123484,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-tea-mountains-ai-v1-1536.webp",
+    "sha256": "9b1ae67418ff51ebb5bd0d8b22094d6007c486e522c75b7509c8ab14650e5791",
+    "bytes": 183108,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-tea-mountains-ai-v1-768.avif",
+    "sha256": "68dab5eb916e4e002ec8bc0e82a126102fb2c4003452faf11398e2984fbaeaec",
+    "bytes": 40449,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-tea-mountains-ai-v1-768.webp",
+    "sha256": "a9769a5ceac0060704e1258d62053614f0b5162553c03e74ab4d73ff9f38ab18",
+    "bytes": 62406,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-tea-mountains-ai-v1.png",
+    "sha256": "617a4d2873c1b892fb24fce9ecc92850f0e9af41361db1eb14ed9b1b5413ab22",
+    "bytes": 2557876,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-temple-tower-ai-v1-1536.avif",
+    "sha256": "4b1bb43ac45a2b2d4c0f9443a7e3ab9a10370fa9ba70da5ac6ee9a0703676d4d",
+    "bytes": 220138,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-temple-tower-ai-v1-1536.webp",
+    "sha256": "8dd719f274500eafe204a040552af73def058506dd5263c8badaa9fe1ae1838f",
+    "bytes": 371390,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-temple-tower-ai-v1-768.avif",
+    "sha256": "2e481fe3e9af9aeb9f3abc16f1e4b8774cd43b3f73be7073bb5928fd2a39887c",
+    "bytes": 63722,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-temple-tower-ai-v1-768.webp",
+    "sha256": "3c0580b0230ec95c42559587f1699a15e771c81c16b647c484e4fd8aeeb96c70",
+    "bytes": 108588,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/spot-temple-tower-ai-v1.png",
+    "sha256": "70fcc80d358bfae1ed3d4927a5cf5e5d09b5dd0252d0a1ddf151a1e106494a7b",
+    "bytes": 3377618,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/stamp-medallions-ai-v1-1536.avif",
+    "sha256": "efb406e25ca9ad71c177756056fad8ea94546cd133aaf6c3ff4f6c9693039987",
+    "bytes": 149839,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/stamp-medallions-ai-v1-1536.webp",
+    "sha256": "568a60599e984ece4770af9d47639154f516cab1ddb2f27c35409f22c92a495a",
+    "bytes": 267418,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/stamp-medallions-ai-v1-768.avif",
+    "sha256": "2e17c057b47adc8a245ba277247be022747e38d59a69c82e30ed090bffdb23fc",
+    "bytes": 38082,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/stamp-medallions-ai-v1-768.webp",
+    "sha256": "195411bbf8a9aaa9272508696f4e0694cc4839c466d985b95b412f355943ba69",
+    "bytes": 59868,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/stamp-medallions-ai-v1.png",
+    "sha256": "037d1a96c5e3daac6fdde5b0c9937bf0a773c10d26a9dee29a6bd592713d20de",
+    "bytes": 3257455,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/texture-rice-paper-ai-v1-768.avif",
+    "sha256": "334f2b6a8663a564785ca2617fbcea6f4b4110758e643a33811699de4a5d9ff2",
+    "bytes": 10969,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/texture-rice-paper-ai-v1-768.webp",
+    "sha256": "21b1a9a3a28e50d5c9df139f5604942a8a805bf2dd5827def9c96a408a9ce5d0",
+    "bytes": 7996,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/generated/texture-rice-paper-ai-v1.png",
+    "sha256": "f689abcdfabb27376963a3e1cef2d3e4e7b891d12108da8c5bff475f0d443f4b",
+    "bytes": 2023755,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/hero/hero-cloud-loop.mp4",
+    "sha256": "ac410c891c1fe08ae13c38db13c5c117208bc87bf22d033439dabebec8f53ee1",
+    "bytes": 793723,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "apps/web/public/media/hero/hero-cloud-loop.webm",
+    "sha256": "71aa156342a3c95384c33faa4f85172d13398a4d4658a612e0123780f0f2d454",
+    "bytes": 631893,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  },
+  {
+    "path": "media/hero-motion/assets/hero-shanshui-ai-v1.png",
+    "sha256": "1e264cc510ae0eed0eae637eecf52c7c9a454d07c0501a1dbf4932d801c1ca70",
+    "bytes": 2234348,
+    "source": "Project ImageGen generation records / original motion timeline",
+    "license": "Project MIT grant; AI-generated illustration, no exclusive copyright or real-site accuracy claim"
+  }
+]

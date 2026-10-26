@@ -1,0 +1,23 @@
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+.env
+.env.local
+.superpowers/
+output/playwright/
+output/visual-diffs/
+output/
+*.log
+
+.vercel
+.env*
+
+# Generated publication and browser evidence
+pages-dist/
+playwright-report/
+output/
+.env*
+!.env.example
+%USERPROFILE%/

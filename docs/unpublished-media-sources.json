@@ -1,0 +1,290 @@
+[
+  {
+    "path": "apps/admin/public/brand/logo.jpg",
+    "sha256": "ad201ca10fe4f73dd26651ad4ca60afa9faca5c7f9fa8dff7acf3ff09bae36a0",
+    "bytes": 77393,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/assistant/chan-xiaoli-assistant-chroma.png",
+    "sha256": "b627fdef4c8f4a36142b8f33493913e221af78454dc563ada382c3d6e02919c7",
+    "bytes": 1463169,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/assistant/chan-xiaoli-assistant.png",
+    "sha256": "14ee49de552a9b7bbd6099eb91008a2dc5edf631b4bc941f9c6c8b15807412b9",
+    "bytes": 858151,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/assistant/meditating.png",
+    "sha256": "933a4e92315a4fcac2b082c930b9f20a467f3f8bee6a0e4429808d3eab2c8103",
+    "bytes": 844682,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/assistant/thinking.png",
+    "sha256": "519c002c216154bdf624444aeabd8bba490b6ccda30d1c0f5742e64250bae921",
+    "bytes": 808872,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/assistant/walking.png",
+    "sha256": "aa8a98a2b58dfad8935b8b60395c5326f3476e501b04c47fd5f065ad4f14793b",
+    "bytes": 888188,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/assistant/waving.png",
+    "sha256": "0fa9d56e0e460ce9b99b340f4043af16368dffcdb7b41f1750c2de1ba9752b47",
+    "bytes": 849581,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/brand/chan-xiaoli-mascot-1024.avif",
+    "sha256": "79ac17b7ec0551fb28d8d40ad85b562d95d88d818421d5542b193acc63b2edac",
+    "bytes": 39361,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/brand/chan-xiaoli-mascot-1024.webp",
+    "sha256": "27097aeb4291d1be8b919646a0ab8b1f5e97ac457b2a8700496a888084f4d69a",
+    "bytes": 68538,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/brand/chan-xiaoli-mascot-512.avif",
+    "sha256": "d1c84715eec4a20bc617c4852d96fc9e6d8f8e81cfaf58e86825900927fcad9a",
+    "bytes": 12943,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/brand/chan-xiaoli-mascot-512.webp",
+    "sha256": "73157c0619bf062bfefe1adb867c36f77a50df47b1ffd5e93942d61573d9d8f1",
+    "bytes": 23364,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/brand/chan-xiaoli-mascot.png",
+    "sha256": "e1713ab2c06ae749f80916aac2f41d1d52550bb876d863a5b2e2127e1d9339c9",
+    "bytes": 600214,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/brand/liuzu-cloud-tour-logo-source.jpg",
+    "sha256": "a1d8b0c85a910c0704006b093413d178ed5a676ae092c1eca5f06710b7c64f25",
+    "bytes": 95326,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/brand/liuzu-cloud-tour-logo.jpg",
+    "sha256": "ad201ca10fe4f73dd26651ad4ca60afa9faca5c7f9fa8dff7acf3ff09bae36a0",
+    "bytes": 77393,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/hero/hero-user-upload-v2.mp4",
+    "sha256": "07135e4a92adeeec11e609ccae3f2f55ec21435b9555e1e91b80b66e2080dd82",
+    "bytes": 2474801,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "apps/web/public/media/hero/hero-user-upload.mp4",
+    "sha256": "07135e4a92adeeec11e609ccae3f2f55ec21435b9555e1e91b80b66e2080dd82",
+    "bytes": 2474801,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/01_home_hero.png",
+    "sha256": "9a819483a467dc0ac95a93f426cdd408f8833c4df3de6475b3d1d415129b4b36",
+    "bytes": 2240268,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/02_home_story_bento.png",
+    "sha256": "c927b877243c21d52f088b99e8c9022355045f89efbb17ecb3b2ca2c8227e5d1",
+    "bytes": 2064739,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/03_home_gallery_seasons.png",
+    "sha256": "5cc837c30b63531a9273bd818ecf9cee9348bd1cf2648ba63486da513fdeca9a",
+    "bytes": 2345559,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/04_home_stamp_guide.png",
+    "sha256": "13f3402d212a9806c2dabfe07c72cd8d287ab94ae5302f22213c01825e721cf5",
+    "bytes": 2009485,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/05_map.png",
+    "sha256": "619ca3e9e8ac4239b4fe4b226072c9a7c1f0d86eb19c8959851ea1bd746d42bf",
+    "bytes": 2508288,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/06_spots.png",
+    "sha256": "92ddfb0016d4e7fa342286c73c5e23059e0b41a16f05be43dac3601dca55f436",
+    "bytes": 2309270,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/07_spot_detail_top.png",
+    "sha256": "4f5d966c4c4d31753f866b936050d076308de9e4082881fb0e1a6f7240d0b6b2",
+    "bytes": 2189811,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/08_spot_detail_bottom.png",
+    "sha256": "0648f0bc9bd445629e6cd6d8a085d41b84bfc067f2f177be7001512c7bf567e0",
+    "bytes": 1902309,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/09_3d_viewer.png",
+    "sha256": "d11dedc3e30d19a40a3f9bb65fafe0298a7125a896dc9b8aba3e83fa0264187a",
+    "bytes": 2093745,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/10_routes.png",
+    "sha256": "93fd7d4ddb57b8d143dd9921588c5953d28ee1d9350b1cf882779bb41ab7ba14",
+    "bytes": 2385597,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/11_route_detail_zen_1day.png",
+    "sha256": "5240e426791cbe241108d7fe01e4833096f8a2b4e8089c8b796ef83c98b85484",
+    "bytes": 1893298,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/12_route_detail_zen_red_2day.png",
+    "sha256": "914cf9401cdfbf5d2156b7d1312b1669bcdfe0f5496fe35e217ced82a0b2a1b3",
+    "bytes": 2187462,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/13_route_detail_farm_aid.png",
+    "sha256": "513dd97ee31787b9c83e4eb2842974ba0b04be76e9f327dcd5b1fe65d69fc8c4",
+    "bytes": 2284595,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/14_route_detail_full_guide.png",
+    "sha256": "c52fce45fb651913b2843ff0c4fb06072a19d48dc3c81e22c08778228c1cdde1",
+    "bytes": 2201276,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/15_route_detail_lychee_halfday.png",
+    "sha256": "95db7240902dc164b571ff75c30e67ed680ce9e554f078d77be7ee84d2f40577",
+    "bytes": 2108460,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/16_route_detail_red_memory.png",
+    "sha256": "03c7e4c148b598564ef670060879e5e336eb4fee95e2a17fe69b88a099c8acc6",
+    "bytes": 2065234,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/17_stamp_book.png",
+    "sha256": "85f3cd2dcad57fa19686e0fade57ddbb96af9564a2650f0368c73f89ee75624e",
+    "bytes": 2196434,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/18_certificate.png",
+    "sha256": "d461291b1b57242325e72912b6466daf4fee9bca8c56208d067a5a141adb0658",
+    "bytes": 1992534,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/19_achievements.png",
+    "sha256": "a6b1adb124bd193f89a503833874328d261073c189f0a1091c8b0f7ef8240bc3",
+    "bytes": 2444459,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/20_achievement_livestream.png",
+    "sha256": "43ae6a5957a6fbc125f3f8ea335720175ade1d2dcdac7e9c4e3fb32c99c243a0",
+    "bytes": 2244364,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/21_achievement_party.png",
+    "sha256": "72b1eb7ff4749e9a42e402772b492fdbf13966c433fb0099eff7f3c41fcc5a06",
+    "bytes": 2240156,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/22_achievement_interview.png",
+    "sha256": "b75288d3e9d8b9b92697803d07502c61648d256a7f564ee955b9cc420013c0f8",
+    "bytes": 2218089,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/23_achievement_survey.png",
+    "sha256": "d02c1c2a54f25766a03a50a7f208f6f17aaa569dcfdfe05c8f2c9aca494722af",
+    "bytes": 1859064,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/24_achievement_aigc.png",
+    "sha256": "7d0a72d958996cb7b1f03015c777f7728f7b28fd865aeec8c6dce479df535822",
+    "bytes": 2292846,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/25_about_top.png",
+    "sha256": "923914fffde951eb99ec48400bba353923c3abf9d6d05036c7b80ac81d4f36df",
+    "bytes": 2230916,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/26_about_bottom.png",
+    "sha256": "0f5778f948243edb4ccbb7abe68810e42b4236da349365c16d2824d9fb2d59e3",
+    "bytes": 1978337,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/27_admin_login.png",
+    "sha256": "009b0e08bea48546fa044fd751f20ccd78dcac578d563218feda28b43f648a87",
+    "bytes": 1824182,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/28_admin_dashboard.png",
+    "sha256": "018b0aa8f2d3d8993a9aaef8668269c30ba1753f954b1a2ad9a7b9748004f043",
+    "bytes": 1550157,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/29_admin_spots_list.png",
+    "sha256": "78d3d59c582f73893be92c5282e90e4bf1bc07123bcd0c01a6dc594390c8abd4",
+    "bytes": 1753866,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/30_admin_spot_edit.png",
+    "sha256": "528507b043117e9e3a7b7b8ca9999e6803960e5425145c3d6f30fa00095ef752",
+    "bytes": 1717611,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/31_admin_route_editor.png",
+    "sha256": "cb0117f78b9330863ed1421c8e14944e817e5a6ed85df572402503135f1b39ef",
+    "bytes": 2009331,
+    "reason": "redistribution-rights-unconfirmed"
+  },
+  {
+    "path": "references/prototypes/32_admin_achievements.png",
+    "sha256": "a1927f647894e0ef6a565a7cd9c19505fff93feee36f3bc869ae2039a0ed101d",
+    "bytes": 1449717,
+    "reason": "redistribution-rights-unconfirmed"
+  }
+]

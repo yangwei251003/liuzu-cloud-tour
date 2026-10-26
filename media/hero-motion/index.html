@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>六祖云游 Hero 云雾循环</title>
+  </head>
+  <body>
+    <div
+      id="hero-cloud-loop"
+      data-composition-id="hero-cloud-loop"
+      data-start="0"
+      data-duration="10"
+      data-width="1536"
+      data-height="1024"
+      data-track-index="0"
+    >
+      <div class="frame">
+        <img class="landscape" src="assets/hero-shanshui-ai-v1.png" alt="" />
+        <div class="mist-layer mist-layer--far" aria-hidden="true">
+          <img src="assets/hero-shanshui-ai-v1.png" alt="" />
+        </div>
+        <div class="mist-layer mist-layer--near" aria-hidden="true">
+          <img src="assets/hero-shanshui-ai-v1.png" alt="" />
+        </div>
+        <div class="warm-light" aria-hidden="true"></div>
+      </div>
+    </div>
+
+    <style>
+      html,
+      body,
+      [data-composition-id='hero-cloud-loop'],
+      .frame {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        overflow: hidden;
+        background: #f5f2ea;
+      }
+
+      .frame {
+        position: relative;
+      }
+
+      .landscape,
+      .mist-layer,
+      .mist-layer img,
+      .warm-light {
+        position: absolute;
+        inset: -3%;
+        width: 106%;
+        height: 106%;
+      }
+
+      .landscape,
+      .mist-layer img {
+        object-fit: cover;
+      }
+
+      .mist-layer {
+        overflow: hidden;
+        opacity: 0.12;
+        -webkit-mask-image: linear-gradient(90deg, transparent 4%, #0f1f1a 30%, transparent 76%);
+        mask-image: linear-gradient(90deg, transparent 4%, #0f1f1a 30%, transparent 76%);
+      }
+
+      .mist-layer img {
+        filter: blur(13px) brightness(1.13) saturate(0.72);
+      }
+
+      .mist-layer--near {
+        opacity: 0.08;
+        transform: scaleX(-1);
+      }
+
+      .warm-light {
+        background: radial-gradient(circle at 68% 38%, rgb(200 164 92 / 0.16), transparent 32%);
+        mix-blend-mode: screen;
+      }
+    </style>
+
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <script>
+      window.__timelines = window.__timelines || {};
+      const timeline = gsap.timeline({ paused: true });
+      timeline.to('.landscape', {
+        scale: 1.03,
+        x: -12,
+        duration: 5,
+        ease: 'sine.inOut',
+        yoyo: true,
+        repeat: 1,
+      }, 0);
+      timeline.to('.mist-layer--far', {
+        x: 68,
+        opacity: 0.18,
+        duration: 5,
+        ease: 'sine.inOut',
+        yoyo: true,
+        repeat: 1,
+      }, 0);
+      timeline.to('.mist-layer--near', {
+        x: -52,
+        opacity: 0.13,
+        duration: 5,
+        ease: 'power1.inOut',
+        yoyo: true,
+        repeat: 1,
+      }, 0);
+      timeline.to('.warm-light', {
+        opacity: 0.56,
+        scale: 1.015,
+        duration: 5,
+        ease: 'sine.inOut',
+        yoyo: true,
+        repeat: 1,
+      }, 0);
+      window.__timelines['hero-cloud-loop'] = timeline;
+    </script>
+  </body>
+</html>
